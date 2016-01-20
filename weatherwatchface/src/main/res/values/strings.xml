@@ -1,0 +1,7 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">WeatherWatchFace</string>
+    <string name="my_digital_name">Weather Digital</string>
+    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+</resources>
